@@ -2,3 +2,5 @@ SupportLogs/
 *.log
 .DS_Store
 Thumbs.db
+_push.sh
+_cleanup.sh
